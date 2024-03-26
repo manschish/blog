@@ -1,0 +1,19 @@
+*{
+    background-color: beige;
+}
+.heading{
+    font-family: monospace;
+}
+
+.about{
+    font-family: monospace;
+}
+.notes{
+    font-family: Roboto,Ubuntu;
+    font-weight: 700;
+}
+
+img {
+    height: 300px;
+    width: 600px;
+}

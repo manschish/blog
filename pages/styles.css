@@ -1,0 +1,12 @@
+*{
+    background-color: beige;
+}
+
+.notes{
+    font-family: monospace;
+    text-align: center;
+}
+
+.para {
+    font-family: Geneva, Tahoma, sans-serif
+}
